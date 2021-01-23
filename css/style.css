@@ -126,6 +126,7 @@ img {
 .solutions {
   font-weight: 900;
   margin-top: 0;
+
   margin-bottom: 40px;
   font-size: 44px;
   line-height: 1.363;
@@ -137,6 +138,8 @@ img {
 
 .hero-description {
   background-color: #2f303a;
+  padding-top: 200px;
+  height: 600px;
   text-align: center;
 }
 
@@ -286,6 +289,7 @@ img {
 /* =========FOOTER STYLES========== */
 .footer {
   background-color: #2f303a;
+  height: 232px;
 }
 .footer .logo {
   margin-bottom: 20px;
@@ -308,8 +312,10 @@ img {
 
 .footer .container {
   width: 1230px;
+  margin-top: 94px;
   padding-right: 15px;
   padding-left: 15px;
+  padding-top: 60px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -392,6 +398,8 @@ img {
 }
 
 .projects-list h3 {
+  margin-top: 20px;
+  margin-left: 24px;
   font-weight: 900;
   font-size: 18px;
   line-height: 2;
@@ -399,6 +407,8 @@ img {
   color: var(--mostly-used-color);
 }
 .projects-list p {
+  margin-top: 4px;
+  margin-left: 24px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.875;

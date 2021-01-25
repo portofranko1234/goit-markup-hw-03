@@ -215,7 +215,7 @@ img {
   font-size: 36px;
   line-height: 1.167;
   padding-bottom: 50px;
-  
+
   text-align: center;
 
   letter-spacing: 0.03em;
@@ -238,8 +238,6 @@ img {
   display: flex;
 }
 
-
-}
 .doings-images:not(:last-child) {
   margin-right: 30px;
 }
@@ -254,9 +252,11 @@ img {
   text-align: center;
 }
 
-.team{padding-bottom: 94px;
-padding-top: 94px;
-background: #F5F4FA;}
+.team {
+  padding-bottom: 94px;
+  padding-top: 94px;
+  background: #f5f4fa;
+}
 
 .team-list {
   display: flex;
@@ -271,9 +271,6 @@ background: #F5F4FA;}
 
 .team-list-item:last-child {
   margin-right: 0px;
-}
-
-
 }
 
 .members-name {
@@ -300,7 +297,6 @@ background: #F5F4FA;}
   background-color: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
-  
 }
 .footer .logo {
   margin-bottom: 20px;
@@ -364,7 +360,6 @@ background: #F5F4FA;}
   padding-left: 15px;
   display: flex;
   justify-content: center;
-  
 }
 
 .filter-button {
@@ -395,9 +390,10 @@ background: #F5F4FA;}
   margin-right: auto;
 }
 
-
-.filter-menu{padding-top: 94px;
-padding-bottom: 94px;}
+.filter-menu {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 
 .projects-list {
   display: flex;
